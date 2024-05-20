@@ -1,0 +1,17 @@
+{
+  "name": "AmbiSensor",
+  "about": "LED",
+  "version": "1.0",
+  "notes": "NET",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://github.com/Grandgoldcoldbeer/AmbiSensor/blob/main/firmware/AmbiSensor/AmbiSensor.ino",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
